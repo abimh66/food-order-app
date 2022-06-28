@@ -16,7 +16,7 @@ Objektif pada project ini:
 ### Links
 
 - Solution URL: [Solution Code](https://github.com/abimh66/food-order-app)
-- Live Site URL: [Live Site](https://sunnyside-abimh66.netlify.app/)
+- Live Site URL: [Live Site](https://abimh66.github.io/food-order-app/)
 
 ### Stack yang digunakan
 
