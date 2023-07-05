@@ -17,7 +17,6 @@ const cartReducer = (state, { type, payload }) => {
       (item) => item.id === payload.id
     );
     const existingCartItem = state.items[existingCartItemIndex];
-    // console.log(existingCartItem);
 
     if (existingCartItem) {
       const updatedItem = {
